@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Ashutosh Gaharwar from India<br><br>- 🔭 I’m studying in SRMIST as a first year<br>- 📚 I'm currently learning JAVA and SQL<br>- ⚡ In my free time I like to code and play video games</p>
+<p align="left">I'm Ashutosh Gaharwar from India<br><br>- 🔭 I’m studying in SRMIST as a first year<br>- 📚 I'm currently learning JAVA and SQL<br>- ⚡ In my free time I like to code and read</p>
 
 ###
 
