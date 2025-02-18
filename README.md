@@ -31,9 +31,6 @@ I'm a passionate developer from India and a second-year student at SRMIST. I lov
 ### Overall Stats
 ![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=radical)
 
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshg-2005&theme=radical)
-
 ### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=radical)
 
@@ -45,26 +42,21 @@ I'm a passionate developer from India and a second-year student at SRMIST. I lov
 1. **[Movie-recommendation-system](https://github.com/ashutoshg-2005/Movie-recommendation-system)**  
    _My first AI project built using Jupyter Notebook._
 
-2. **[ashutoshg-2005](https://github.com/ashutoshg-2005/ashutoshg-2005)**  
-   _A repository showcasing various projects and experiments._
 
-3. **[Diabetes-Predictor](https://github.com/ashutoshg-2005/Diabetes-Predictor)**  
+2. **[Diabetes-Predictor](https://github.com/ashutoshg-2005/Diabetes-Predictor)**  
    _A Jupyter Notebook project predicting diabetes._
 
-4. **[Sentiment-Analysis](https://github.com/ashutoshg-2005/Sentiment-Analysis)**  
+3. **[Sentiment-Analysis](https://github.com/ashutoshg-2005/Sentiment-Analysis)**  
    _A project performing sentiment analysis using Jupyter Notebook._
 
-5. **[Hotel-management-system](https://github.com/ashutoshg-2005/Hotel-management-system)**  
+4. **[Hotel-management-system](https://github.com/ashutoshg-2005/Hotel-management-system)**  
    _A Java-based system designed to manage hotel operations._
 
-6. **[ElevateAI](https://github.com/ashutoshg-2005/ElevateAI)**  
+5. **[ElevateAI](https://github.com/ashutoshg-2005/ElevateAI)**  
    _A project developed using JavaScript._
-
-## Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/ashutoshg-2005/count.svg)
 
 ## Let's Connect
 
 Feel free to reach out for collaborations, discussions, or just a friendly chat about tech!
+
 
