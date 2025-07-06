@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://c.tenor.com/yzCz1bJl6jMAAAAd/coding.gif" alt="Animated Coding GIF" width="100%" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/200.gif" alt="Animated Coding GIF" width="600" />
 </p>
 
 # <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#2E8B57;">Hi there 👋, I’m <strong>Ashutosh Gaharwar</strong></span>
