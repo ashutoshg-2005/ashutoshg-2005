@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated Coding GIF" width="100%" />
+  <img src="https://c.tenor.com/yzCz1bJl6jMAAAAd/coding.gif" alt="Animated Coding GIF" width="100%" />
 </p>
 
 # <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#2E8B57;">Hi there 👋, I’m <strong>Ashutosh Gaharwar</strong></span>
@@ -16,7 +16,7 @@
 I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMIST** (Class of 2027) based in India. I specialize in crafting performant web applications and scalable AI solutions.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Brainstorm" width="300" />
+  <img src="https://c.tenor.com/X8m5hi2FyrAAAAAd/brainstorm.gif" alt="Coding Brainstorm" width="300" />
 </p>
 
 - 🔭 <span style="color:#FF4500;">Currently mastering multi-agent LLM orchestration (MCP, Forecrawl) and advanced agent frameworks.</span>
