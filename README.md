@@ -19,8 +19,8 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
   <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Brainstorm" width="300" />
 </p>
 
-- 🔭 <span style="color:#FF4500;">Currently mastering React & Next.js for high-performance, SEO-friendly UIs.</span>
-- 🌱 <span style="color:#1E90FF;">Diving into CI/CD pipelines, Docker orchestration, and LLM-driven microservices.</span>
+- 🔭 <span style="color:#FF4500;">Currently mastering multi-agent LLM orchestration (MCP, Forecrawl) and advanced agent frameworks.</span>
+- 🌱 <span style="color:#1E90FF;">Diving into CI/CD pipelines, Docker, container orchestration, and advanced agent frameworks.</span>
 - 💬 <span style="color:#32CD32;">Ask me about server-side rendering, LLM integration, or end-to-end testing.</span>
 
 ---
@@ -28,15 +28,56 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square" />
+  <!-- Frameworks & Libraries -->
+  <br />
+  <strong>Frameworks & Libraries</strong>
+  <br />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Prisma-EB2A7A?logo=prisma&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-0078D4?logo=graph&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Inngest-4285F4?logo=inngest&logoColor=white&style=flat-square" />
+  <br /><br />
+  <!-- AI & LLM Infrastructure -->
+  <strong>AI & LLM Infrastructure</strong>
+  <br />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firecrawl-FF6A00?logo=firecrawl&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP-FF0000?logo=data:image/png;base64,iVBORw0KGgo...?&style=flat-square" />
+  <br /><br />
+  <!-- Tools & Platforms -->
+  <strong>Tools & Platforms</strong>
+  <br />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Jupyter-DA5B0B?logo=jupyter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Clerk-0072CE?logo=clerk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?logo=recharts&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
+  <br /><br />
+  <!-- Databases -->
+  <strong>Databases</strong>
+  <br />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/NeonDB-18A0FB?logo=neon&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <br /><br />
+  <!-- Programming Languages -->
+  <strong>Programming Languages</strong>
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" />
-  </p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
+</p>
+
+---
 
 ---
 
@@ -48,7 +89,6 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
   <br/><br/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=solarized-light&hide_border=true" alt="Top Languages" />
-  <br/><br/>
 </p>
 
 ---
