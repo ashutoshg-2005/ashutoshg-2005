@@ -10,21 +10,52 @@ I'm a passionate developer from India and a second-year student at SRMIST. I lov
 
 ## Tech Stack & Tools
 
-**Languages:**  
-- Python  
-- C  
-- C++  
-- JavaScript  
-- Java  
-- HTML5  
-
 **Frameworks & Libraries:**  
 - React *(currently learning)*  
+- Next.js  
+- Node.js  
+- Flask  
+- Django  
+- REST APIs  
 - PyTorch  
+- TensorFlow  
+- scikit-learn  
+- Inngest  
+- Prisma ORM  
+- LangChain  
+- LangGraph  
+- React Email (Resend)  
+- Swing (Java)  
+- JFreeChart  
+
+**AI & LLM Infrastructure:**  
+- Google Gemini API  
+- OpenAI APIs *(e.g., GPT-4)*  
+- LangChain  
+- LangGraph  
+- Firecrawl  
+- Multi-agent Collaboration Protocol (MCP)  *(currently learning)*  
+- Large Language Models (LLMs)  
 
 **Tools & Platforms:**  
-- Anaconda (Python distribution)  
-- Jupyter Notebook *(for AI and data science projects)*
+- Anaconda *(Python distribution)*  
+- Jupyter Notebook *(for AI and data science projects)*  
+- Git  
+- GitHub  
+- Clerk  
+- Recharts  
+- Vercel *(for deployment)*  
+
+**Databases:**  
+- PostgreSQL  
+- NeonDB  
+- MySQL  
+
+**Programming Languages:**  
+- Python  
+- Java  
+- JavaScript  
+- C/C++
 
 ## GitHub Stats
 
