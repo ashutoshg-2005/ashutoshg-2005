@@ -40,29 +40,15 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
 
 ---
 
-## 📹 Latest Demo
-
-[![Watch the Video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-*A quick showcase of my recent web app demo—click to watch!*  
-*(Replace this link with your actual demo video.)*
-
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=solarized-light&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshg-2005&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-  <br/><br/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=solarized-light&hide_border=true" alt="Top Languages" />
   <br/><br/>
-  <!-- Contribution Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=ashutoshg-2005&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
