@@ -1,75 +1,58 @@
-# Hey there, I'm Ashutosh Gaharwar 👋
+<p align="center">
+  <img src="https://source.unsplash.com/1600x400/?coding,technology" alt="Tech Banner" />
+</p>
 
-I'm a passionate developer from India and a second-year student at SRMIST. I love coding, learning new technologies, and diving into exciting projects in AI, frontend development, and more.
+# Hi there 👋, I’m Ashutosh Gaharwar
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-gaharwar2005"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Gaharwar-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"></a>
+  <a href="mailto:ashutoshgaharwar05@gmail.com"><img src="https://img.shields.io/badge/Email-ashutoshgaharwar05@gmail.com-D14836?logo=gmail&style=for-the-badge" alt="Email Badge"></a>
+</p>
 
-- 🎓 **Student at:** SRMIST (Graduating 2027)
-- 🔭 **Currently Learning:** Frontend frameworks like **React**
-- ⚡ **Interests:** Coding, reading, and exploring new technologies
+---
 
-## Tech Stack & Tools
+## 🚀 About Me
 
-**Frameworks & Libraries:**  
-- React *(currently learning)*  
-- Next.js  
-- Node.js  
-- Flask  
-- Django  
-- REST APIs  
-- PyTorch  
-- TensorFlow  
-- scikit-learn  
-- Inngest  
-- Prisma ORM  
-- LangChain  
-- LangGraph  
-- React Email (Resend)  
-- Swing (Java)  
-- JFreeChart  
+I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMIST** (Class of 2027) based in India. I specialize in crafting performant web applications and scalable AI solutions.
 
-**AI & LLM Infrastructure:**  
-- Google Gemini API  
-- OpenAI APIs *(e.g., GPT-4)*  
-- LangChain  
-- LangGraph  
-- Firecrawl  
-- Multi-agent Collaboration Protocol (MCP)  *(currently learning)*  
-- Large Language Models (LLMs)  
+- 🔭 Currently mastering **React** & **Next.js** for high-performance, SEO-friendly UIs.
+- 🌱 Diving into **CI/CD pipelines**, **Docker orchestration**, and **LLM-driven microservices**.
+- 💬 Ask me about **server-side rendering**, **LLM integration**, or **end-to-end testing**.
 
-**Tools & Platforms:**  
-- Anaconda *(Python distribution)*  
-- Jupyter Notebook *(for AI and data science projects)*  
-- Git  
-- GitHub  
-- Clerk  
-- Recharts  
-- Vercel *(for deployment)*  
+---
 
-**Databases:**  
-- PostgreSQL  
-- NeonDB  
-- MySQL  
+## 🛠️ Tech Stack
 
-**Programming Languages:**  
-- Python  
-- Java  
-- JavaScript  
-- C/C++
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-AI-driven?logo=github&logoColor=white&color=181717" />
+</p>
 
-## GitHub Stats
+---
 
-### Overall Stats
-![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=radical)
+## 📊 GitHub Stats
 
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-### GitHub Trophies
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ashutoshg-2005&theme=radical)](https://github.com/ashutoshg-2005)
+---
 
-## Let's Connect
+## 📫 Connect with Me
 
-Feel free to reach out for collaborations, discussions, or just a friendly chat about tech!
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-gaharwar2005"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Gaharwar-0A66C2?logo=linkedin" /></a>
+  <a href="mailto:ashutoshgaharwar05@gmail.com"><img src="https://img.shields.io/badge/Email-ashutoshgaharwar05@gmail.com-D14836?logo=gmail" /></a>
+</p>
 
+---
 
+<p align="center">Made with ❤️ and 💻</p>
