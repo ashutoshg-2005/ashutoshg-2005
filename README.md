@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://media.giphy.com/media/OVWJRhbgTF4ZO/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0MDE1MTN0cDhiY21iaGJzN3d1dDdxcjg5dXZ0enBtOG8yeWR2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif)" alt="Animated Typing GIF" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0MDE1MTN0cDhiY21iaGJzN3d1dDdxcjg5dXZ0enBtOG8yeWR2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dh5q0sShxgp13DwrvG/giphy.gif" alt="Animated Typing GIF" width="600" />
 </p>
 
 # <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#2E8B57;">Hi there 👋, I’m <strong>Ashutosh Gaharwar</strong></span>
