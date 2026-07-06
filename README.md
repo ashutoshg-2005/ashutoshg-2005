@@ -216,7 +216,7 @@ Apex triggers, SOQL, Salesforce CRM development, Lightning Web Components, SaaS 
 
 <img src="https://github-stats-extended-frontend-beta.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=ashutoshg-2005&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+
 
 <br/>
 
@@ -224,19 +224,10 @@ Apex triggers, SOQL, Salesforce CRM development, Lightning Web Components, SaaS 
 
 </div>
 
----
-
-## `10` GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshg-2005&theme=radical&no-frame=true&row=1&column=6&margin-w=8" />
-
-</div>
 
 ---
 
-## `11` Contribution Activity
+## `10` Contribution Activity
 
 <div align="center">
 
@@ -246,7 +237,7 @@ Apex triggers, SOQL, Salesforce CRM development, Lightning Web Components, SaaS 
 
 ---
 
-## `12` Contribution Snake
+## `11` Contribution Snake
 
 <div align="center">
 
@@ -256,7 +247,7 @@ Apex triggers, SOQL, Salesforce CRM development, Lightning Web Components, SaaS 
 
 ---
 
-## `13` Current Focus
+## `12` Current Focus
 
 ```yaml
 current_focus:
@@ -278,7 +269,7 @@ current_focus:
 
 ---
 
-## `14` Connect
+## `13` Connect
 
 <div align="center">
 
