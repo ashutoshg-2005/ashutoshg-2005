@@ -214,12 +214,13 @@ Apex triggers, SOQL, Salesforce CRM development, Lightning Web Components, SaaS 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshg-2005&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
+<img src="https://github-stats-extended-frontend-beta.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="48%" />
+
+<img src="https://streak-stats.demolab.com?user=ashutoshg-2005&theme=radical&hide_border=true&background=0D1117&stroke=A78BFA&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
+<img src="https://github-stats-extended-frontend-beta.vercel.app/api/top-langs?username=ashutoshg-2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" width="48%" />
 
 </div>
 
