@@ -2,7 +2,11 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazl2cW4yYWkwdGloNW5ycGxyb2tieml2ejA5eXoyc2QyNTF3dWMxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/cLLVsGPA6Vky1AZ2Rd/giphy.gif" alt="Animated Typing GIF" width="600" />
 </p>
 
-# <span style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#2E8B57;">Hi there 👋, I’m <strong>Ashutosh Gaharwar</strong></span>
+<h1 align="center">Hi there 👋, I'm Ashutosh Gaharwar</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Software+Developer;AI+Engineer+in+progress;Building+multi-agent+LLM+systems;Always+learning%2C+always+shipping" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashutosh-gaharwar2005"><img src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Gaharwar-0A66C2?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"></a>
@@ -13,22 +17,22 @@
 
 ## 🚀 About Me
 
-I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMIST** (Class of 2027) based in India. I specialize in crafting performant web applications and scalable AI solutions.
+I'm a **Software Developer** and 2nd-year CSE undergrad at **SRMIST** (Class of 2027) based in India. I enjoy building performant web applications and exploring scalable AI systems — from full-stack products to multi-agent LLM pipelines.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ0MDE1MTN0cDhiY21iaGJzN3d1dDdxcjg5dXZ0enBtOG8yeWR2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif" alt="Brainstorm GIF" width="300" />
 </p>
 
-- 🔭 <span style="color:#FF4500;">Currently mastering multi-agent LLM orchestration (MCP, Forecrawl) and advanced agent frameworks.</span>
-- 🌱 <span style="color:#1E90FF;">Diving into CI/CD pipelines, Docker, container orchestration, and advanced agent frameworks.</span>
-- 💬 <span style="color:#32CD32;">Ask me about server-side rendering, LLM integration, or end-to-end testing.</span>
+- 🔭 Currently mastering multi-agent LLM orchestration (LangGraph, MCP, Firecrawl) and advanced agent frameworks.
+- 🌱 Diving into CI/CD pipelines, Docker, container orchestration, and retrieval-augmented systems.
+- 💬 Ask me about server-side rendering, LLM integration, or end-to-end testing.
+- ⚡ Fun fact: I'm currently building **FilingSense**, a multi-agent RAG system for financial due diligence over SEC filings.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- Frameworks & Libraries -->
   <br />
   <strong>Frameworks & Libraries</strong>
   <br />
@@ -42,15 +46,12 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
   <img src="https://img.shields.io/badge/LangGraph-0078D4?logo=graph&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Inngest-4285F4?logo=inngest&logoColor=white&style=flat-square" />
   <br /><br />
-  <!-- AI & LLM Infrastructure -->
   <strong>AI & LLM Infrastructure</strong>
   <br />
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?logo=google&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Firecrawl-FF6A00?logo=firecrawl&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP-FF0000?logo=data:image/png;base64,iVBORw0KGgo...?&style=flat-square" />
   <br /><br />
-  <!-- Tools & Platforms -->
   <strong>Tools & Platforms</strong>
   <br />
   <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=flat-square" />
@@ -61,14 +62,12 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
   <img src="https://img.shields.io/badge/Recharts-FF6384?logo=recharts&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat-square" />
   <br /><br />
-  <!-- Databases -->
   <strong>Databases</strong>
   <br />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/NeonDB-18A0FB?logo=neon&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <br /><br />
-  <!-- Programming Languages -->
   <strong>Programming Languages</strong>
   <br />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
@@ -79,16 +78,18 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
 
 ---
 
----
-
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ashutoshg-2005&show_icons=true&theme=solarized-light&hide_border=true" alt="GitHub Stats" />
   <br/><br/>
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshg-2005&layout=compact&theme=solarized-light&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshg-2005&theme=solarized-light&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshg-2005&theme=react-dark&hide_border=true&bg_color=ffffff" alt="Activity Graph" />
 </p>
 
 ---
@@ -100,6 +101,8 @@ I’m a **Full-Stack Engineer-In-Training** and 2nd-year CSE undergrad at **SRMI
   <a href="mailto:ashutoshgaharwar05@gmail.com"><img src="https://img.shields.io/badge/Email-ashutoshgaharwar05@gmail.com-D14836?logo=gmail&style=flat-square" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashutoshg-2005&label=Profile%20Views&color=2E8B57&style=flat-square" alt="Profile Views" />
+</p>
 
-<p align="center"><em>Crafted with passion &amp; ☕</em></p>
+<p align="center"><em>Crafted with passion &amp; ☕</em></p>  
